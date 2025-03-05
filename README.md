@@ -10,3 +10,6 @@ La db del proyecto viene en el schema.sql
 Accede a la carpeta del proyecto: cd Practica1 ejecutas el proyecto con maven: mvn spring-boot:run 
 
 accedes al endpoint en el navegadr con: http://localhost:8080/login
+
+![image](https://github.com/user-attachments/assets/ff6bb321-5b7e-4934-a4f8-57271902d0be)
+
